@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invio.ApiClient", "Invio.ApiClient\Invio.ApiClient.csproj", "{23E58A6E-902C-4A1B-82A9-72AA5FEBBD1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E58A6E-902C-4A1B-82A9-72AA5FEBBD1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E58A6E-902C-4A1B-82A9-72AA5FEBBD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E58A6E-902C-4A1B-82A9-72AA5FEBBD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E58A6E-902C-4A1B-82A9-72AA5FEBBD1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
