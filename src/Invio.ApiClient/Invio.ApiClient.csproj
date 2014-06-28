@@ -42,10 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AccountHolderInfo.cs" />
+    <Compile Include="ApprovalRequest.cs" />
     <Compile Include="InvioApiClient.cs" />
     <Compile Include="PaymentList.cs" />
+    <Compile Include="PendingAccountList.cs" />
     <Compile Include="PendingPayment.cs" />
+    <Compile Include="PendingRemittance.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemittanceList.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
