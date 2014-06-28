@@ -50,6 +50,7 @@
     <Compile Include="InvioApiClient.cs" />
     <Compile Include="IPaymentActions.cs" />
     <Compile Include="IRemittanceActions.cs" />
+    <Compile Include="MoneygramPendingRemittance.cs" />
     <Compile Include="PaymentActions.cs" />
     <Compile Include="PaymentList.cs" />
     <Compile Include="PendingAccountList.cs" />
@@ -58,6 +59,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RemittanceActions.cs" />
     <Compile Include="RemittanceList.cs" />
+    <Compile Include="WesternUnionPendingRemittance.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
