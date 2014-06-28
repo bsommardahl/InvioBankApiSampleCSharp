@@ -43,13 +43,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AccountHolderInfo.cs" />
+    <Compile Include="AccountRequestActions.cs" />
     <Compile Include="ApprovalRequest.cs" />
+    <Compile Include="IAccountRequestActions.cs" />
+    <Compile Include="IInvioApiClient.cs" />
     <Compile Include="InvioApiClient.cs" />
+    <Compile Include="IPaymentActions.cs" />
+    <Compile Include="IRemittanceActions.cs" />
+    <Compile Include="PaymentActions.cs" />
     <Compile Include="PaymentList.cs" />
     <Compile Include="PendingAccountList.cs" />
     <Compile Include="PendingPayment.cs" />
     <Compile Include="PendingRemittance.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemittanceActions.cs" />
     <Compile Include="RemittanceList.cs" />
   </ItemGroup>
   <ItemGroup>
